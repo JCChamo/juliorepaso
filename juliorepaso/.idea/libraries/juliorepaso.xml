@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="juliorepaso">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/juliorepaso/out/artifacts/juliorepaso_jar/juliorepaso.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

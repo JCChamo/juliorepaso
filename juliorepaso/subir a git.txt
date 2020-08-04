@@ -2,7 +2,7 @@ cd Desktop
 git init
 git config --global user.email "josecarlos_chamorro_galan@hotmail.com"
 git config --global user.name "JCChamo"
-git add juliorepas\
+git add juliorepaso\
 cd juliorepaso\
 git add .
 git commit -m "añadir juliorepaso"
