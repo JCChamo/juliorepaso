@@ -1,0 +1,10 @@
+cd Desktop
+git init
+git config --global user.email "josecarlos_chamorro_galan@hotmail.com"
+git config --global user.name "JCChamo"
+git add juliorepas\
+cd juliorepaso\
+git add .
+git commit -m "añadir juliorepaso"
+git remote add https://github.com/JCChamo/juliorepaso
+git push --set-upstream juliorepaso master
