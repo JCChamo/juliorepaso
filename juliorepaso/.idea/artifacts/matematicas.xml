@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="matematicas">
+    <output-path>$PROJECT_DIR$/out/artifacts/matematicas</output-path>
+    <root id="archive" name="unnamed.jar">
+      <element id="directory" name="matematicas">
+        <element id="dir-copy" path="$PROJECT_DIR$/src/Paquetes/ejercicios/matematicas" />
+      </element>
+    </root>
+  </artifact>
+</component>

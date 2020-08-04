@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="juliorepaso:jar7">
+    <output-path>$PROJECT_DIR$/out/artifacts/juliorepaso_jar7</output-path>
+    <root id="archive" name="juliorepaso.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/Stringbuilder/ejercicios/metainfoClave/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="juliorepaso" />
+    </root>
+  </artifact>
+</component>
